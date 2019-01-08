@@ -1,0 +1,13 @@
+.brand-logo {
+    font-family: 'Lobster', cursive;
+    color: black; 
+}
+
+nav ul li a{
+    color: black;
+  }    
+
+nav .brand-logo {
+    color: black; 
+    margin-left: 590px; 
+}
