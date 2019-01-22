@@ -122,3 +122,14 @@ img {
     margin: auto;
   }
 }
+/*----------- javascript css ---------- */ 
+#load {
+  display: none;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  background: url(https://media.giphy.com/media/52qtwCtj9OLTi/giphy.gif);
+  width: 43px;
+  height: 11px;
+  text-indent: -9999em;
+}
